@@ -1,0 +1,8 @@
+code,system
+G24..00,readv2
+G244.00,readv2
+G24z.00,readv2
+G24z100,readv2
+G24zz00,readv2
+I15,icd10
+I15.2,icd10
